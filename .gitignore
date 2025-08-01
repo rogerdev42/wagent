@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+
+# Python dotenv files
+api/.env
+*.env
+
+# Docker
+*.log
+*.pid
+
+# VSCode or JetBrains IDE
+.vscode/
+.idea/
+
+# Chat history
+chat_history.json
+
+# OS
+.DS_Store
+Thumbs.db
